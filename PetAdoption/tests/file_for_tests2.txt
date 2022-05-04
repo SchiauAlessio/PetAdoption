@@ -1,0 +1,4 @@
+breed3,name3,1.5,idk3
+breed4,name4,2.5,idk4
+breed,name,2.5,idk
+random_breed,random_name,100,random_photo

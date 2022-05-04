@@ -1,0 +1,6 @@
+Pomeranian,Preston,4,https://www.adoptapet.com/pet/26475473-mississauga-ontario-pomeranian
+Corgi,Carson,0.5,https://www.keystonepuppies.com/puppy/welsh-corgi-pembroke-puppies-for-sale/carson-49
+Bichpoo,Polly,0.4,https://www.keystonepuppies.com/puppy/bichpoo-puppies-for-sale/polly-35
+Samoyed,Bubba,1,https://www.keystonepuppies.com/puppy/samoyed-puppies-for-sale/bubba-87
+Cavapoo,Sheba,0.7,https://www.keystonepuppies.com/puppy/cavapoo-puppies-for-sale/sheba-4
+Cavapoo,Hoops,0.25,https://www.keystonepuppies.com/puppy/cavapoo-puppies-for-sale/hoops-25
